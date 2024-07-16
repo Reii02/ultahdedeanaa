@@ -109,7 +109,7 @@ body {
   44% {
     visibility: visible;
     margin-top: -125px;
-    widthr: 250px;
+    width: 350px;
   }
   100% {
     visibility: visible;
